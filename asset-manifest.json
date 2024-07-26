@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b6f49a0.css",
+    "main.js": "/static/js/main.fd0b07a6.js",
+    "static/js/453.9d56267b.chunk.js": "/static/js/453.9d56267b.chunk.js",
+    "static/media/eyekyam.png": "/static/media/eyekyam.9cf12b2a194c511ce599.png",
+    "index.html": "/index.html",
+    "main.1b6f49a0.css.map": "/static/css/main.1b6f49a0.css.map",
+    "main.fd0b07a6.js.map": "/static/js/main.fd0b07a6.js.map",
+    "453.9d56267b.chunk.js.map": "/static/js/453.9d56267b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b6f49a0.css",
+    "static/js/main.fd0b07a6.js"
+  ]
+}
