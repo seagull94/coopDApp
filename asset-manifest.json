@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/coopDApp/static/css/main.1b6f49a0.css",
-    "main.js": "/coopDApp/static/js/main.3613b935.js",
+    "main.css": "/coopDApp/static/css/main.cae10794.css",
+    "main.js": "/coopDApp/static/js/main.1bc5c870.js",
     "static/js/453.9d56267b.chunk.js": "/coopDApp/static/js/453.9d56267b.chunk.js",
     "static/media/eyekyam.png": "/coopDApp/static/media/eyekyam.9cf12b2a194c511ce599.png",
     "index.html": "/coopDApp/index.html",
-    "main.1b6f49a0.css.map": "/coopDApp/static/css/main.1b6f49a0.css.map",
-    "main.3613b935.js.map": "/coopDApp/static/js/main.3613b935.js.map",
+    "main.cae10794.css.map": "/coopDApp/static/css/main.cae10794.css.map",
+    "main.1bc5c870.js.map": "/coopDApp/static/js/main.1bc5c870.js.map",
     "453.9d56267b.chunk.js.map": "/coopDApp/static/js/453.9d56267b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b6f49a0.css",
-    "static/js/main.3613b935.js"
+    "static/css/main.cae10794.css",
+    "static/js/main.1bc5c870.js"
   ]
 }
